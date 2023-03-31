@@ -1,3 +1,3 @@
-# slice-of-algae
+# Slice of Algae
 
 a collection of algorithms I find interesting
