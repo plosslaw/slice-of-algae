@@ -1,5 +1,5 @@
 // ? Problem: Convert the zero-based index of an excel column to its given column letter name
-// ? e.g. 0th column -> A, 5th column -> E, 27th column -> AB
+// ? e.g. 0th column -> A, 5th column -> F, 27th column -> AB
 
 
 // * tested up to 100,000,000 using bruteForceTestExcelColumnLetters
