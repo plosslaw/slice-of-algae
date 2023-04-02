@@ -136,3 +136,7 @@ const bruteForceTestExcelColumnLetters = (n) => {
 const args = process.argv.slice(2);
 
 bruteForceTestExcelColumnLetters(args.length > 0 ? Number(args[0]) : 10000)
+
+if (args.length > 0) {
+    console.log(convertZeroBasedIndexToExcelColumnLetter(Number(args[0])))
+}
